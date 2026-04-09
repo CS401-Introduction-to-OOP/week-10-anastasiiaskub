@@ -1,0 +1,15 @@
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/bin/Debug/net10.0/week10CS401
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/bin/Debug/net10.0/week10CS401.deps.json
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/bin/Debug/net10.0/week10CS401.runtimeconfig.json
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/bin/Debug/net10.0/week10CS401.dll
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/bin/Debug/net10.0/week10CS401.pdb
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/week10CS401.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/week10CS401.AssemblyInfoInputs.cache
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/week10CS401.AssemblyInfo.cs
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/week10CS401.csproj.CoreCompileInputs.cache
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/week10CS401.sourcelink.json
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/week10CS401.dll
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/refint/week10CS401.dll
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/week10CS401.pdb
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/week10CS401.genruntimeconfig.cache
+/Users/anastasiaskub/RiderProjects/week10CS401/week10CS401/obj/Debug/net10.0/ref/week10CS401.dll
